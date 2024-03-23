@@ -3,7 +3,7 @@ Eu me chamo Moisés, sou estudante de programação que está sempre querendo ap
 
 ## Ferramentas e Tecnologias que estou aprendendo
 
-``JavaScript `` ``HTML `` ``CSS `` ``Cypress `` ``Node.js `` ``TypeScript `` ``Node.js ``  ``React``  
+``JavaScript `` ``HTML `` ``CSS `` ``Cypress `` ``Node.js `` ``TypeScript ``  ``React``  
 
 ## Contatos:
 

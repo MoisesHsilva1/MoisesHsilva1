@@ -3,7 +3,7 @@
 
 ## Um pouco mais sobre mim🙃
 
-• 🎓 Ensino medio tecnico em informatica 
+• 🎓 Ensino medio tecnico em informatica <br>
 • 💻 Javascript, Typescript, Cypress, Cucumber. <br>
 • ⌚ gosto de ouvir musicas,coda e assitir filmes.
 

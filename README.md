@@ -1,11 +1,14 @@
 ### Olá rede!! 👋
-Eu me chamo Moisés, sou estudante de programação que está sempre querendo aprender coisas novas...
+• Eu me chamo Moisés, sou estudante de programação que está sempre querendo aprender coisas novas...
 
-## Ferramentas e Tecnologias que estou aprendendo
+## Um pouco mais sobre mim🙃
 
-``JavaScript `` ``HTML `` ``CSS `` ``Cypress `` ``Node.js `` ``TypeScript ``  ``React``  ``Cucumber`` 
+• 🎓 Ensino medio tecnico em informatica 
+• 💻 Javascript, Typescript, Cypress, Cucumber. <br>
+• ⌚ gosto de ouvir musicas,coda e assitir filmes.
 
-## Contatos:
+
+## Contatos	💬:
 
 <div>
 <a href = "moihgm67@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

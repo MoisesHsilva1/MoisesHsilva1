@@ -3,7 +3,8 @@
 
 ## Um pouco mais sobre mim🙃
 
-• 🎓 Ensino medio tecnico em informatica <br>
+• 🎓 Ensino médio técnico em informática no <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
+ <br>
 • 💻 Javascript, Typescript, Cypress, Cucumber. <br>
 • ⌚ gosto de ouvir musicas,coda e assitir filmes.
 

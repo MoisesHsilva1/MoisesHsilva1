@@ -5,7 +5,7 @@
 
 • 🎓 Ensino médio técnico em informática no <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
  <br>
-• 💻 Javascript, Typescript, Cypress, Playwright <br>
+• 💻 Javascript, Typescript, Cypress, React, Node.js <br>
 • ⌚ gosto de ouvir musicas,coda e assitir filmes.
 
 

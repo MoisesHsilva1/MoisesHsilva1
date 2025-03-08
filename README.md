@@ -1,5 +1,5 @@
 ### Olá rede!! 👋
-• Eu me chamo Moisés, sou desenvolvedor front-end que está sempre querendo aprender coisas novas...
+• Eu me chamo Moisés, sou desenvolvedor full-stack que está sempre querendo aprender coisas novas...
 
 ## Um pouco mais sobre mim🙃
 

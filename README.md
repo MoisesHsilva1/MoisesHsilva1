@@ -1,18 +1,18 @@
-### Olá, sou o Moises Henrique👋
+## Olá, sou o Moises Henrique👋
+<div> 
 
-## Um pouco mais sobre mim
+<br>
 
-• 🎓 Ensino médio técnico em informática no <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
+• 🚀 Desenvolvedor fullstack <br>
+• 🎓 Sou formado em Informática pelo <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
  <br>
 • 💻 Javascript, Typescript, Nest.js, React, Node.js <br>
 • ⌚ gosto de ouvir musicas,coda e assitir filmes.
 
+##
 
-## Contatos:
-
-<div> 
-<a href="https://www.linkedin.com/in/mois%C3%A9shenrique/?skipRedirect=true" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>  
-
+<div style="display: flex; gap: 10px; align-items: center;"> <a href="https://moiseshsilva1.github.io/Protifolio-v2/" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"> </a> <a href="https://www.linkedin.com/in/mois%C3%A9shenrique/?skipRedirect=true" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://medium.com/@moisaas_dev" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a> </div>
+ 
 
 
 </div>

@@ -2,11 +2,10 @@
 <div> 
 
 
-• 🚀 Desenvolvedor fullstack <br>
-• 🎓 Sou formado em Informática pelo <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
+• Desenvolvedor fullstack <br>
+•  Sou formado em Informática pelo <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
  <br>
-• 💻 Javascript, Typescript, Nest.js, React, Node.js <br>
-• ⌚ gosto de ouvir musicas,coda e assitir filmes.
+•  Javascript, Typescript, Nest.js, React, Node.js <br>
 
 ##
 

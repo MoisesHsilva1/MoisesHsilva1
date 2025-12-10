@@ -1,5 +1,4 @@
-### Olá rede!! 
-• Eu me chamo Moisés, sou desenvolvedor full-stack
+### Olá, sou o Moises Henrique👋
 
 ## Um pouco mais sobre mim
 

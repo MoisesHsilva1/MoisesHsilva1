@@ -3,7 +3,7 @@
 
 
 • Desenvolvedor fullstack <br>
-•  Sou formado em Informática pelo <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
+•  Sou formado em técnico em informática pelo <a href="https://www.sp.senac.br/senac-aclimacao"> Senac Aclimação.</a>
  <br>
 •  Javascript, Typescript, Nest.js, React, Node.js <br>
 

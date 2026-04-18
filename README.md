@@ -4,7 +4,7 @@
 
 • Full-stack Software Developer  
 • Graduated in Computer Science Technician from <a href="https://www.sp.senac.br/senac-aclimacao">Senac Aclimação</a>  
-• JavaScript, TypeScript, Nest.js, React, and Node.js  
+• Java, SpringBoot, Node.js  
 
 </div>
 
